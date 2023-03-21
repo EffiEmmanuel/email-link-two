@@ -28,3 +28,8 @@ body {
   text-decoration: none;
   color: #fff;
 }
+
+.image-btn {
+  background-color: pink;
+  color: #181818;
+}
